@@ -1,0 +1,6 @@
+Steps to run a java code in command prompt :
+1. save the file with .java (remember to put class name same as the file name )
+2. open cmd
+3. change directory to location of file (eg: cd c:\ )
+4. compile the java code (eg: javac first.java)
+5. run your java code (eg: java first)  
